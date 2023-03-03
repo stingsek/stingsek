@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał Żądełek</h1>
-<h3 align="center">I'm a computer science student interested in machine learning and c++ enthusiast</h3>
+<h3 align="center">I'm a computer science student and c++ enthusiast interested in machine learning</h3>
 
 - 🌱 I’m currently learning **machine learning frameworks**
 
